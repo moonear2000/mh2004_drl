@@ -1,0 +1,5 @@
+/home/mounirhinedi/hanabi-learning-environment/_skbuild/linux-x86_64-3.10/cmake-install/hanabi_learning_environment/libpyhanabi.so
+/home/mounirhinedi/hanabi-learning-environment/_skbuild/linux-x86_64-3.10/cmake-install/hanabi_learning_environment/__init__.py
+/home/mounirhinedi/hanabi-learning-environment/_skbuild/linux-x86_64-3.10/cmake-install/hanabi_learning_environment/rl_env.py
+/home/mounirhinedi/hanabi-learning-environment/_skbuild/linux-x86_64-3.10/cmake-install/hanabi_learning_environment/pyhanabi.py
+/home/mounirhinedi/hanabi-learning-environment/_skbuild/linux-x86_64-3.10/cmake-install/hanabi_learning_environment/pyhanabi.h
